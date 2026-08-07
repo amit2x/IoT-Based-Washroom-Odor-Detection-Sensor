@@ -13,10 +13,10 @@ gc.enable()
 # =====================================================
 # WiFi + Server Config
 # =====================================================
-WIFI_SSID     = "D-Link_DIR-600M"
-WIFI_PASSWORD = "App-3258-ggj"
-SERVER_URL    = "https://api.nscbiairport.com/api/upload-json"
-API_KEY       = "5yaPCbGsWz5OQIAf2hJXveOHiflumsAAVWn3xeceC2ul1cVWj1rBY88atnHKQ7iF"
+WIFI_SSID     = "Enter SSID"
+WIFI_PASSWORD = "Password"
+SERVER_URL    = "API End Point"
+API_KEY       = "Enter Your API Key"
 
 deviceId      = "Intern-pico-01"
 
